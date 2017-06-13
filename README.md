@@ -1,12 +1,18 @@
 # Neural Drummer
 General audio work using LSTMs
-first part: imitate analogue effects
+
+---first part: imitate analogue effects---
+
+
 inputs: raw and processed audio
+
 converted to wavelet tranform vectors
+
 1-to-1 mapping with tensorflow LSTM
 
 
-second part (TODO):
+
+---second part (TODO):---
 
 input: DWT of drums, corresponding bpm
 
